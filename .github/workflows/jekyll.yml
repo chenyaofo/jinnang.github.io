@@ -51,6 +51,28 @@ jobs:
       - name: Upload artifact
         # Automatically uploads an artifact from the './_site' directory by default
         uses: actions/upload-pages-artifact@v3
+      - name: Push to site branch
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          
+          
+          cp -r ./_site ..
+
+          # 检出 site 分支
+          git fetch origin site
+          git checkout site
+          
+          # 删除除 .git 外的所有文件
+          find . -maxdepth 1 ! -name '.git' ! -name '.gitignore' -exec rm -rf {} +
+          
+          # 复制 _site 目录内容到当前目录
+          cp -r ../_site/* .
+          
+          # 提交更改
+          git add .
+          git commit -m "Update site from GitHub Actions"
+          git push origin site
 
   # Deployment job
   deploy:
@@ -64,22 +86,4 @@ jobs:
         id: deployment
         uses: actions/deploy-pages@v4
 
-      - name: Push to site branch
-        run: |
-          git config --global user.name "GitHub Actions"
-          git config --global user.email "actions@github.com"
-          
-          # 检出 site 分支
-          git fetch origin site
-          git checkout site
-          
-          # 删除除 .git 外的所有文件
-          find . -maxdepth 1 ! -name '.git' ! -name '.gitignore' -exec rm -rf {} +
-          
-          # 复制 _site 目录内容到当前目录
-          cp -a ../_site/. .
-          
-          # 提交更改
-          git add .
-          git commit -m "Update site from GitHub Actions"
-          git push origin site
+
