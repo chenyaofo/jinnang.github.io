@@ -75,7 +75,7 @@ jobs:
       - name: Copy _site to target repository
         run: |
           rm -rf target-repo/*  # 清空目标仓库（可选）
-          cp -r _site/* target-repo/  # 复制 _site 内容
+          cp -r "${{ github.workspace }}/_site"/* target-repo/
 
       - name: Commit and push to target repository
         run: |
