@@ -72,6 +72,12 @@ jobs:
           token: ${{ secrets.PUSH_TOKEN }}  # 需要有写入权限的 token
           path: target-repo  # 克隆到 target-repo 目录
 
+      - name: Debug directory
+        run: |
+          pwd  # 输出当前目录（仍是根目录）
+          ls .
+          ls -la target-repo/  # 检查目标仓库内容
+
       - name: Copy _site to target repository
         run: |
           rm -rf target-repo/*  # 清空目标仓库（可选）
