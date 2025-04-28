@@ -64,7 +64,7 @@ jobs:
           git checkout site
           
           # 删除除 .git 外的所有文件
-          find . -maxdepth 1 ! -name '.git' ! -name '.gitignore' -exec rm -rf {} +
+          find . -mindepth 1 -maxdepth 1 ! -name '.git' ! -name '.gitignore' -exec rm -rf {} +
           
           # 复制 _site 目录内容到当前目录
           cp -r ../_site/* .
