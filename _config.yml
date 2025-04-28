@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "锦囊"
-description              : "\n旨在提供一个集中、便捷的资源平台，帮助同学们快速获取与实验室工作相关的各种信息和操作指南"
+title                    : "实验室锦囊"
+description              : "旨在提供一个集中、便捷的资源平台，帮助同学们快速获取与实验室工作相关的各种信息和操作指南"
 repository               : "RayeRen/acad-homepage.github.io"
 google_scholar_stats_use_cdn : false
 

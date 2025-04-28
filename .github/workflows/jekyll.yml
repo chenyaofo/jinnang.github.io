@@ -63,3 +63,25 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+
+      # 新增：将 _site 目录推送到另一个 GitHub 仓库
+      - name: Checkout target repository
+        uses: actions/checkout@v4
+        with:
+          repository: chenyaofo/jinnang  # 目标仓库
+          token: ${{ secrets.PUSH_TOKEN }}  # 需要有写入权限的 token
+          path: target-repo  # 克隆到 target-repo 目录
+
+      - name: Copy _site to target repository
+        run: |
+          rm -rf target-repo/*  # 清空目标仓库（可选）
+          cp -r _site/* target-repo/  # 复制 _site 内容
+
+      - name: Commit and push to target repository
+        run: |
+          cd target-repo
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          git add .
+          git commit -m "Update from Jekyll build ${{ github.run_id }}"
+          git push
