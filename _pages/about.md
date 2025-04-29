@@ -17,7 +17,7 @@ redirect_from:
 | 如何进行Rebuttal | 【[rebuttal流程v8.pdf](https://lab-static.unvs.cc/jinnang/research/rebuttal流程v8.pdf)】| 2025年4月29日 |
 | Rebuttal经验总结 | 【[Rebuttal经验总结整理版v2.pdf](https://lab-static.unvs.cc/jinnang/research/Rebuttal经验总结整理版v2.pdf)】| 2025年4月29日 |
 | Rebuttal过程中的注意事项 | 【[rebuttal注意事项v6.pdf](https://lab-static.unvs.cc/jinnang/research/rebuttal注意事项v6.pdf)】| 2025年4月29日 |
-| Rebuttal供参考的优秀案例 | 【[rebuttal优秀案例.zip](https://lab-static.unvs.cc/jinnang/research/rrebuttal优秀案例.zip)】| 2025年4月29日 |
+| Rebuttal供参考的优秀案例 | 【[rebuttal优秀案例.zip](https://lab-static.unvs.cc/jinnang/research/rebuttal优秀案例.zip)】| 2025年4月29日 |
 
 # 财务报销
 
