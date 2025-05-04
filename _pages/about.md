@@ -13,12 +13,14 @@ redirect_from:
 ## 论文写作经验总结
 
 ### 毕业论文
+
 | 指南说明 | 文档 | 上传时间 |
 | --- | --- | --- |
 | 毕业论文开题报告指导 | 【[毕业论文和开题报告的架构.docx](https://lab-static.unvs.cc/jinnang/research/论文写作/毕业论文和开题报告的架构.docx)】| 2025年5月4日 |
 | 毕业论文写作指导 | 【[毕业论文写作注意事项及案例分析.docx](https://lab-static.unvs.cc/jinnang/research/论文写作/毕业论文写作注意事项及案例分析.docx)】| 2025年5月4日 |
 
 ### 入门
+
 | 指南说明 | 文档 | 上传时间 |
 | --- | --- | --- |
 | Latex论文写作标准 | 【[Latex论文写作标准.docx](https://lab-static.unvs.cc/jinnang/research/论文写作/Latex论文写作标准.docx)】| 2025年5月4日 |
@@ -29,6 +31,7 @@ redirect_from:
 | 如何提升写作 | 【[如何提升写作.pptx](https://lab-static.unvs.cc/jinnang/research/论文写作/如何提升写作.pptx)】| 2025年5月4日 |
 
 ### 常见问题
+
 | 指南说明 | 文档 | 上传时间 |
 | --- | --- | --- |
 | 论文投稿检查事项 | 【[论文投稿check_list.docx](https://lab-static.unvs.cc/jinnang/research/论文写作/论文投稿check_list.docx)】| 2025年5月4日 |
@@ -40,6 +43,7 @@ redirect_from:
 
 
 ### 参考
+
 | 指南说明 | 文档 | 上传时间 |
 | --- | --- | --- |
 | 论文投稿检查事项 | 【[论文投稿check_list.docx](https://lab-static.unvs.cc/jinnang/research/论文写作/论文投稿check_list.docx)】| 2025年5月4日 |
