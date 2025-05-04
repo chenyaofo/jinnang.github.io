@@ -10,16 +10,9 @@ redirect_from:
 
 # 写作资料
 
-## 论文写作经验总结
+## 1-论文写作经验总结
 
-### 毕业论文
-
-| 指南说明 | 文档 | 上传时间 |
-| --- | --- | --- |
-| 毕业论文开题报告指导 | 【[毕业论文和开题报告的架构.docx](https://lab-static.unvs.cc/jinnang/research/论文写作/毕业论文和开题报告的架构.docx)】| 2025年5月4日 |
-| 毕业论文写作指导 | 【[毕业论文写作注意事项及案例分析.docx](https://lab-static.unvs.cc/jinnang/research/论文写作/毕业论文写作注意事项及案例分析.docx)】| 2025年5月4日 |
-
-### 入门
+### （1）入门
 
 | 指南说明 | 文档 | 上传时间 |
 | --- | --- | --- |
@@ -30,7 +23,14 @@ redirect_from:
 | 如何写投稿信 | 【[如何写投稿信.pptx](https://lab-static.unvs.cc/jinnang/research/论文写作/如何写投稿信.pptx)】| 2025年5月4日 |
 | 如何提升写作 | 【[如何提升写作.pptx](https://lab-static.unvs.cc/jinnang/research/论文写作/如何提升写作.pptx)】| 2025年5月4日 |
 
-### 常见问题
+### （2）毕业论文
+
+| 指南说明 | 文档 | 上传时间 |
+| --- | --- | --- |
+| 毕业论文开题报告指导 | 【[毕业论文和开题报告的架构.docx](https://lab-static.unvs.cc/jinnang/research/论文写作/毕业论文和开题报告的架构.docx)】| 2025年5月4日 |
+| 毕业论文写作指导 | 【[毕业论文写作注意事项及案例分析.docx](https://lab-static.unvs.cc/jinnang/research/论文写作/毕业论文写作注意事项及案例分析.docx)】| 2025年5月4日 |
+
+### （3）常见问题
 
 | 指南说明 | 文档 | 上传时间 |
 | --- | --- | --- |
@@ -40,23 +40,26 @@ redirect_from:
 | 修改论文指引 | 【[如何根据comments修改论文.pdf](https://lab-static.unvs.cc/jinnang/research/论文写作/如何根据comments修改论文.pdf)】| 2025年5月4日 |
 | 写作与修改论文过程中的常见问题 | 【[写作与修改论文常见问题整理.pdf](https://lab-static.unvs.cc/jinnang/research/论文写作/写作与修改论文常见问题整理.pdf)】| 2025年5月4日 |
 
+### （4）模板
+| 指南说明 | 文档 | 上传时间 |
+| --- | --- | --- |
 
 
-### 参考
+### （5）参考
 
 | 指南说明 | 文档 | 上传时间 |
 | --- | --- | --- |
-| 论文投稿检查事项 | 【[论文投稿check_list.docx](https://lab-static.unvs.cc/jinnang/research/论文写作/论文投稿check_list.docx)】| 2025年5月4日 |
-| 论文写作纠错指引 | 【[论文写作纠错本.docx](https://lab-static.unvs.cc/jinnang/research/论文写作/论文写作纠错本.docx)】| 2025年5月4日 |
-| 论文写作用词指引 | 【[论文写作中一些常见的用词不当.pdf](https://lab-static.unvs.cc/jinnang/research/论文写作/论文写作中一些常见的用词不当.pdf)】| 2025年5月4日 |
-| 毕业论文写作指导 | 【[毕业论文写作注意事项及案例分析.docx](https://lab-static.unvs.cc/jinnang/research/论文写作/毕业论文写作注意事项及案例分析.docx)】| 2025年5月4日 |
-| 论文投稿检查事项 | 【[论文投稿check_list.docx](https://lab-static.unvs.cc/jinnang/research/论文写作/论文投稿check_list.docx)】| 2025年5月4日 |
+| 文章第一句参考 | 【[文章第一句展示.pdf](https://lab-static.unvs.cc/jinnang/research/论文写作/文章第一句展示.pdf)】| 2025年5月4日 |
+| 毛主席写作技巧参考 | 【[向毛主席学习论文写作和修改技巧.pdf](https://lab-static.unvs.cc/jinnang/research/论文写作/向毛主席学习论文写作和修改技巧.pdf)】| 2025年5月4日 |
+| 中文论文写作参考 | 【[中文论文写作参考.zip](https://lab-static.unvs.cc/jinnang/research/论文写作/中文论文写作参考.zip)】| 2025年5月4日 |
+| 英文论文写作参考 | 【[英文论文写作参考.zip](https://lab-static.unvs.cc/jinnang/research/论文写作/英文论文写作参考.zip)】| 2025年5月4日 |
+| AJE资料参考 | 【[AJE参考资料2020-05-20.zip](https://lab-static.unvs.cc/jinnang/research/论文写作/AJE参考资料2020-05-20.zip)】| 2025年5月4日 |
 | Latex论文写作标准 | 【[Latex论文写作标准.docx](https://lab-static.unvs.cc/jinnang/research/论文写作/Latex论文写作标准.docx)】| 2025年5月4日 |
 | 毕业论文开题报告指导 | 【[毕业论文和开题报告的架构.docxf](https://lab-static.unvs.cc/jinnang/research/论文写作/毕业论文和开题报告的架构.docx)】| 2025年5月4日 |
 | 毕业论文写作指导 | 【[毕业论文写作注意事项及案例分析.docx](https://lab-static.unvs.cc/jinnang/research/论文写作/毕业论文写作注意事项及案例分析.docx)】| 2025年5月4日 |
 | 论文投稿检查事项 | 【[论文投稿check_list.docx](https://lab-static.unvs.cc/jinnang/research/论文写作/论文投稿check_list.docx)】| 2025年5月4日 |
 
-## Rebuttal经验总结
+## 2-Rebuttal经验总结
 
 | 指南说明 | 文档 | 上传时间 |
 | --- | --- | --- |
