@@ -60,22 +60,86 @@ redirect_from:
 
 ## 2-Rebuttal经验总结
 
+### （1）入门
+
 | 指南说明 | 文档 | 上传时间 |
 | --- | --- | --- |
 | 如何进行Rebuttal | 【[rebuttal流程v8.pdf](https://lab-static.unvs.cc/jinnang/research/Rebuttal/rebuttal流程v8.pdf)】| 2025年4月29日 |
 | Rebuttal经验总结 | 【[Rebuttal经验总结整理版v2.pdf](https://lab-static.unvs.cc/jinnang/research/Rebuttal/Rebuttal经验总结整理版v2.pdf)】| 2025年4月29日 |
 | Rebuttal过程中的注意事项 | 【[rebuttal注意事项v6.pdf](https://lab-static.unvs.cc/jinnang/research/Rebuttal/rebuttal注意事项v6.pdf)】| 2025年4月29日 |
+
+### （2）参考
+
+| 指南说明 | 文档 | 上传时间 |
+| --- | --- | --- |
 | Rebuttal供参考的优秀案例 | 【[rebuttal优秀案例.zip](https://lab-static.unvs.cc/jinnang/research/Rebuttal/rebuttal优秀案例.zip)】| 2025年4月29日 |
 
-## 实验报告经验总结
+## 3-实验报告经验总结
+
+### （1）模板
+
+| 指南说明 | 文档 | 上传时间 |
+| --- | --- | --- |
+| 实验报告提纲 | 【[实验报告提纲+范例.docx](https://lab-static.unvs.cc/jinnang/research/实验报告/实验报告提纲+范例.docx)】| 2025年5月5日 |
+
+### （2）参考
+
+| 指南说明 | 文档 | 上传时间 |
+| --- | --- | --- |
+| 实验报告范例 | 【[实验报告提纲+范例.docx](https://lab-static.unvs.cc/jinnang/research/实验报告/实验报告提纲+范例.docx)】| 2025年5月5日 |
 
 ## 公文修改经验总结
 
+### （1）参考
+
+| 指南说明 | 文档 | 上传时间 |
+| --- | --- | --- |
+| 公文修改案例 | 【[公文修改案例-看如何修改公文使其更清晰.pdf](https://lab-static.unvs.cc/jinnang/research/公文修改/公文修改案例-看如何修改公文使其更清晰.pdf)】| 2025年5月5日 |
+
 ## 制作PPT经验总结
+
+### （1）入门
+
+| 指南说明 | 文档 | 上传时间 |
+| --- | --- | --- |
+| 如何做PPT | 【[如何做PPT.pptx](https://lab-static.unvs.cc/jinnang/research/制作PPT/如何做PPT.pptx)】| 2025年5月5日 |
+
+### （2）模板
+
+| 指南说明 | 文档 | 上传时间 |
+| --- | --- | --- |
+| PPT模板 | 【[PPT模板.zip](https://lab-static.unvs.cc/jinnang/research/制作PPT/PPT模板.zip)】| 2025年5月5日 |
 
 ## 专利和软著经验总结
 
+### （1）入门
+
+| 指南说明 | 文档 | 上传时间 |
+| --- | --- | --- |
+| 如何申请计算机软件著作 | 【[如何申请计算机软件著作.pptx](https://lab-static.unvs.cc/jinnang/research/专利与软著/如何申请计算机软件著作.pptx)】| 2025年5月5日 |
+| 如何写专利 | 【[如何写专利.pdf](https://lab-static.unvs.cc/jinnang/research/专利与软著/如何写专利.pdf)】/【[如何写专利.docx](https://lab-static.unvs.cc/jinnang/research/专利与软著/如何写专利.docx)】| 2025年5月5日 |
+
+### （2）模板
+
+| 指南说明 | 文档 | 上传时间 |
+| --- | --- | --- |
+| 专利模板 | 【[专利模板.zip](https://lab-static.unvs.cc/jinnang/research/专利与软著/专利模板.zip)】| 2025年5月5日 |
+| 软著申请材料模板 | 【[软著申请材料的示例模板.zip](https://lab-static.unvs.cc/jinnang/research/专利与软著/软著申请材料的示例模板.zip)】| 2025年5月5日 |
+
+### （3）参考
+
+| 指南说明 | 文档 | 上传时间 |
+| --- | --- | --- |
+| 软著申请材料示例 | 【[软著申请材料的示例模板.zip](https://lab-static.unvs.cc/jinnang/research/专利与软著/软著申请材料的示例模板.zip)】| 2025年5月5日 |
+
 ## 其他
+
+| 指南说明 | 文档 | 上传时间 |
+| --- | --- | --- |
+| 作者署名规定(暂行) | 【[作者署名规定(暂行).pdf](https://lab-static.unvs.cc/jinnang/research/其他/作者署名规定(暂行).pdf)】/【[作者署名规定(暂行).docx](https://lab-static.unvs.cc/jinnang/research/其他/作者署名规定(暂行).docx)】| 2025年5月5日 |
+| 中文科技论文的常见语言弊病 | 【[科学网—中文科技论文的常见语言弊病-李春辉的博文.pdf](https://lab-static.unvs.cc/jinnang/research/其他/科学网—中文科技论文的常见语言弊病-李春辉的博文.pdf)】| 2025年5月5日 |
+| 论文写作规范 | 【[论文写作规范，这篇文章说的最详细！-简书.pdf](https://lab-static.unvs.cc/jinnang/research/其他/论文写作规范，这篇文章说的最详细！-简书.pdf)】| 2025年5月5日 |
+| 如何写NLP论文 | 【[清华刘洋教授-(如何写NLP论文-其他方向也可借鉴)-(12-08-2019).pdf](https://lab-static.unvs.cc/jinnang/research/其他/清华刘洋教授-(如何写NLP论文-其他方向也可借鉴)-(12-08-2019).pdf)】| 2025年5月5日 |
 
 # 财务报销
 
