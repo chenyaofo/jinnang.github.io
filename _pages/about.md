@@ -137,6 +137,7 @@ redirect_from:
 | 指南说明 | 文档 | 上传时间 |
 | --- | --- | --- |
 | 作者署名规定(暂行) | 【[作者署名规定(暂行).pdf](https://lab-static.unvs.cc/jinnang/research/其他/作者署名规定(暂行).pdf)】/【[作者署名规定(暂行).docx](https://lab-static.unvs.cc/jinnang/research/其他/作者署名规定(暂行).docx)】| 2025年5月5日 |
+| 如何修改实验室锦囊 | 【[如何修改实验室锦囊.pptx](https://lab-static.unvs.cc/jinnang/research/其他/如何修改实验室锦囊.pptx)】| 2025年5月5日 |
 | 中文科技论文的常见语言弊病 | 【[科学网—中文科技论文的常见语言弊病-李春辉的博文.pdf](https://lab-static.unvs.cc/jinnang/research/其他/科学网—中文科技论文的常见语言弊病-李春辉的博文.pdf)】| 2025年5月5日 |
 | 论文写作规范 | 【[论文写作规范，这篇文章说的最详细！-简书.pdf](https://lab-static.unvs.cc/jinnang/research/其他/论文写作规范，这篇文章说的最详细！-简书.pdf)】| 2025年5月5日 |
 | 如何写NLP论文 | 【[清华刘洋教授-(如何写NLP论文-其他方向也可借鉴)-(12-08-2019).pdf](https://lab-static.unvs.cc/jinnang/research/其他/清华刘洋教授-(如何写NLP论文-其他方向也可借鉴)-(12-08-2019).pdf)】| 2025年5月5日 |
