@@ -88,7 +88,7 @@ redirect_from:
 | --- | --- | --- |
 | 实验报告范例 | 【[实验报告提纲+范例.docx](https://lab-static.unvs.cc/jinnang/research/实验报告/实验报告提纲+范例.docx)】| 2025年5月5日 |
 
-## 公文修改经验总结
+## 4-公文修改经验总结
 
 ### （1）参考
 
@@ -96,7 +96,7 @@ redirect_from:
 | --- | --- | --- |
 | 公文修改案例 | 【[公文修改案例-看如何修改公文使其更清晰.pdf](https://lab-static.unvs.cc/jinnang/research/公文修改/公文修改案例-看如何修改公文使其更清晰.pdf)】| 2025年5月5日 |
 
-## 制作PPT经验总结
+## 5-制作PPT经验总结
 
 ### （1）入门
 
@@ -110,7 +110,7 @@ redirect_from:
 | --- | --- | --- |
 | PPT模板 | 【[PPT模板.zip](https://lab-static.unvs.cc/jinnang/research/制作PPT/PPT模板.zip)】| 2025年5月5日 |
 
-## 专利和软著经验总结
+## 6-专利和软著经验总结
 
 ### （1）入门
 
@@ -132,7 +132,7 @@ redirect_from:
 | --- | --- | --- |
 | 软著申请材料示例 | 【[软著申请材料的示例模板.zip](https://lab-static.unvs.cc/jinnang/research/专利与软著/软著申请材料的示例模板.zip)】| 2025年5月5日 |
 
-## 其他
+## 7-其他
 
 | 指南说明 | 文档 | 上传时间 |
 | --- | --- | --- |
