@@ -41,6 +41,7 @@ redirect_from:
 | 写作与修改论文过程中的常见问题 | 【[写作与修改论文常见问题整理.pdf](https://lab-static.unvs.cc/jinnang/research/论文写作/写作与修改论文常见问题整理.pdf)】| 2025年5月4日 |
 
 ### （4）模板
+
 | 指南说明 | 文档 | 上传时间 |
 | --- | --- | --- |
 | 草稿模板 | 【[草稿模板.zip](https://lab-static.unvs.cc/jinnang/research/论文写作/草稿模板.zip)】| 2025年5月4日 |
