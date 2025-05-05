@@ -18,7 +18,7 @@ redirect_from:
 | --- | --- | --- |
 | Latex论文写作标准 | 【[Latex论文写作标准.docx](https://lab-static.unvs.cc/jinnang/research/论文写作/Latex论文写作标准.docx)】| 2025年5月4日 |
 | 如何写论文 | 【[如何写论文.pptx](https://lab-static.unvs.cc/jinnang/research/论文写作/如何写论文.pptx)】| 2025年5月4日 |
-| 如何写草稿 【[如何写草稿.pptx](https://lab-static.unvs.cc/jinnang/research/论文写作/如何写草稿.pptx)】| 2025年5月4日 |
+| 如何写草稿 | 【[如何写草稿.pptx](https://lab-static.unvs.cc/jinnang/research/论文写作/如何写草稿.pptx)】| 2025年5月4日 |
 | 如何写Related Work | 【[如何写Related_Work.pptx](https://lab-static.unvs.cc/jinnang/research/论文写作/如何写Related_Work.pptx)】| 2025年5月4日 |
 | 如何写投稿信 | 【[如何写投稿信.pptx](https://lab-static.unvs.cc/jinnang/research/论文写作/如何写投稿信.pptx)】| 2025年5月4日 |
 | 如何提升写作 | 【[如何提升写作.pptx](https://lab-static.unvs.cc/jinnang/research/论文写作/如何提升写作.pptx)】| 2025年5月4日 |
@@ -43,7 +43,7 @@ redirect_from:
 ### （4）模板
 | 指南说明 | 文档 | 上传时间 |
 | --- | --- | --- |
-
+| 草稿模板 | 【[草稿模板.zip](https://lab-static.unvs.cc/jinnang/research/论文写作/草稿模板.zip)】| 2025年5月4日 |
 
 ### （5）参考
 
@@ -54,10 +54,8 @@ redirect_from:
 | 中文论文写作参考 | 【[中文论文写作参考.zip](https://lab-static.unvs.cc/jinnang/research/论文写作/中文论文写作参考.zip)】| 2025年5月4日 |
 | 英文论文写作参考 | 【[英文论文写作参考.zip](https://lab-static.unvs.cc/jinnang/research/论文写作/英文论文写作参考.zip)】| 2025年5月4日 |
 | AJE资料参考 | 【[AJE参考资料2020-05-20.zip](https://lab-static.unvs.cc/jinnang/research/论文写作/AJE参考资料2020-05-20.zip)】| 2025年5月4日 |
-| Latex论文写作标准 | 【[Latex论文写作标准.docx](https://lab-static.unvs.cc/jinnang/research/论文写作/Latex论文写作标准.docx)】| 2025年5月4日 |
-| 毕业论文开题报告指导 | 【[毕业论文和开题报告的架构.docxf](https://lab-static.unvs.cc/jinnang/research/论文写作/毕业论文和开题报告的架构.docx)】| 2025年5月4日 |
-| 毕业论文写作指导 | 【[毕业论文写作注意事项及案例分析.docx](https://lab-static.unvs.cc/jinnang/research/论文写作/毕业论文写作注意事项及案例分析.docx)】| 2025年5月4日 |
-| 论文投稿检查事项 | 【[论文投稿check_list.docx](https://lab-static.unvs.cc/jinnang/research/论文写作/论文投稿check_list.docx)】| 2025年5月4日 |
+| Stanford参考资料 | 【[Stanford-(Slides for Writing in the Sciences)-(16-12-2016).zip](https://lab-static.unvs.cc/jinnang/research/论文写作/Stanford-(Slides for Writing in the Sciences)-(16-12-2016).zip)】| 2025年5月4日 |
+| 0602会议记录 | 【[0602会议记录(包含论文写作的要点).pdf](https://lab-static.unvs.cc/jinnang/research/论文写作/0602会议记录(包含论文写作的要点).pdf)】| 2025年5月4日 |
 
 ## 2-Rebuttal经验总结
 
