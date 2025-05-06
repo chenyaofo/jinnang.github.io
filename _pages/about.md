@@ -55,7 +55,7 @@ redirect_from:
 | 中文论文写作参考 | 【[中文论文写作参考.zip](https://lab-static.unvs.cc/jinnang/research/论文写作/中文论文写作参考.zip)】| 2025年5月4日 |
 | 英文论文写作参考 | 【[英文论文写作参考.zip](https://lab-static.unvs.cc/jinnang/research/论文写作/英文论文写作参考.zip)】| 2025年5月4日 |
 | AJE资料参考 | 【[AJE参考资料2020-05-20.zip](https://lab-static.unvs.cc/jinnang/research/论文写作/AJE参考资料2020-05-20.zip)】| 2025年5月4日 |
-| Stanford参考资料 | 【[Stanford-(Slides for Writing in the Sciences)-(16-12-2016).zip](https://lab-static.unvs.cc/jinnang/research/论文写作/Stanford-(Slides for Writing in the Sciences)-(16-12-2016).zip)】| 2025年5月4日 |
+| Stanford参考资料 | 【[Stanford-(Slides_for_Writing_in_the_Sciences)-(16-12-2016).zip](https://lab-static.unvs.cc/jinnang/research/论文写作/Stanford-(Slides_for_Writing_in_the_Sciences)-(16-12-2016).zip)】| 2025年5月4日 |
 | 0602会议记录 | 【[0602会议记录(包含论文写作的要点).pdf](https://lab-static.unvs.cc/jinnang/research/论文写作/0602会议记录(包含论文写作的要点).pdf)】| 2025年5月4日 |
 
 ## 2-Rebuttal经验总结
