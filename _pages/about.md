@@ -21,7 +21,7 @@ redirect_from:
 | 如何写草稿 | 【[如何写草稿.pdf](https://lab-static.unvs.cc/jinnang/research/论文写作/如何写草稿.pdf)】/【[如何写草稿.pptx](https://lab-static.unvs.cc/jinnang/research/论文写作/如何写草稿.pptx)】| 2025年5月4日 |
 | 如何写Related Work | 【[如何写Related_Work.pdf](https://lab-static.unvs.cc/jinnang/research/论文写作/如何写Related_Work.pdf)】/【[如何写Related_Work.pptx](https://lab-static.unvs.cc/jinnang/research/论文写作/如何写Related_Work.pptx)】| 2025年5月4日 |
 | 如何写投稿信 | 【[如何写投稿信.pdf](https://lab-static.unvs.cc/jinnang/research/论文写作/如何写投稿信.pdf)】/【[如何写投稿信.pptx](https://lab-static.unvs.cc/jinnang/research/论文写作/如何写投稿信.pptx)】| 2025年5月4日 |
-| 如何提升写作 | 【[如何提升写作.pdf](https://lab-static.unvs.cc/jinnang/research/论文写作/如何提升写作.pdf)】/【[如何提升写作.pptx](https://lab-static.unvs.cc/jinnang/research/论文写作/如何提升写作.pptx)】| 2025年5月4日 |
+| 如何提升写作 | 【[如何提升写作（写作指南）.pdf](https://lab-static.unvs.cc/jinnang/research/论文写作/如何提升写作（写作指南）.pdf)】/【[如何提升写作（写作指南）.pptx](https://lab-static.unvs.cc/jinnang/research/论文写作/如何提升写作（写作指南）.pptx)】| 2025年5月4日 |
 
 ### （2）毕业论文
 
@@ -110,21 +110,21 @@ redirect_from:
 
 | 指南说明 | 文档 | 上传时间 |
 | --- | --- | --- |
-| 如何申请计算机软件著作 | 【[如何申请计算机软件著作.pptx](https://lab-static.unvs.cc/jinnang/research/专利与软著/如何申请计算机软件著作.pptx)】| 2025年5月5日 |
-| 如何写专利 | 【[如何写专利.pdf](https://lab-static.unvs.cc/jinnang/research/专利与软著/如何写专利.pdf)】/【[如何写专利.docx](https://lab-static.unvs.cc/jinnang/research/专利与软著/如何写专利.docx)】| 2025年5月5日 |
+| 如何申请计算机软件著作 | 【[如何申请计算机软件著作.pptx](https://lab-static.unvs.cc/jinnang/research/专利和软著/如何申请计算机软件著作.pptx)】| 2025年5月5日 |
+| 如何写专利 | 【[如何写专利.pdf](https://lab-static.unvs.cc/jinnang/research/专利和软著/如何写专利.pdf)】/【[如何写专利.docx](https://lab-static.unvs.cc/jinnang/research/专利和软著/如何写专利.docx)】| 2025年5月5日 |
 
 ### （2）模板
 
 | 指南说明 | 文档 | 上传时间 |
 | --- | --- | --- |
-| 专利模板 | 【[专利模板.zip](https://lab-static.unvs.cc/jinnang/research/专利与软著/专利模板.zip)】| 2025年5月5日 |
-| 软著申请材料模板 | 【[软著申请材料的示例模板.zip](https://lab-static.unvs.cc/jinnang/research/专利与软著/软著申请材料的示例模板.zip)】| 2025年5月5日 |
+| 专利模板 | 【[专利模板.zip](https://lab-static.unvs.cc/jinnang/research/专利和软著/专利模板.zip)】| 2025年5月5日 |
+| 软著申请材料模板 | 【[软著申请材料的示例模板.zip](https://lab-static.unvs.cc/jinnang/research/专利和软著/软著申请材料的示例模板.zip)】| 2025年5月5日 |
 
 ### （3）参考
 
 | 指南说明 | 文档 | 上传时间 |
 | --- | --- | --- |
-| 软著申请材料示例 | 【[软著申请材料的示例模板.zip](https://lab-static.unvs.cc/jinnang/research/专利与软著/软著申请材料的示例模板.zip)】| 2025年5月5日 |
+| 软著申请材料示例 | 【[软著申请材料的示例模板.zip](https://lab-static.unvs.cc/jinnang/research/专利和软著/软著申请材料的示例模板.zip)】| 2025年5月5日 |
 
 ## 7-其他
 
