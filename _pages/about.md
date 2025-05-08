@@ -97,8 +97,7 @@ redirect_from:
 | 指南说明 | 文档 | 上传时间 |
 | --- | --- | --- |
 | 如何做PPT | 【[如何做PPT.pptx](https://lab-static.unvs.cc/jinnang/research/制作PPT/如何做PPT.pptx)】| 2025年5月5日 |
-| PPT排版技巧 | 【[PPT排版技巧-v3.pdf](https://lab-static.unvs.cc/jinnang/research/制作PPT/PPT排版技巧-v3.pdf)】/【[PPT排版技巧-v3.pptx](https://lab-static.unvs.cc/jinnang/research/制作PPT/PPT排版技巧-v3.pptx
-)】/【[视频讲解](https://meeting.tencent.com/cw/Km1Zr0QK07)】| 2025年5月8日 |
+| PPT排版技巧 | 【[PPT排版技巧-v3.pdf](https://lab-static.unvs.cc/jinnang/research/制作PPT/PPT排版技巧-v3.pdf)】/【[PPT排版技巧-v3.pptx](https://lab-static.unvs.cc/jinnang/research/制作PPT/PPT排版技巧-v3.pptx)】/【[视频讲解](https://meeting.tencent.com/cw/Km1Zr0QK07)】| 2025年5月8日 |
 
 ### （2）模板
 
