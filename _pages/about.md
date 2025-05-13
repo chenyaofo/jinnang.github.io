@@ -183,10 +183,14 @@ redirect_from:
 
 | 指南说明 | 文档 | 上传时间 |
 | --- | --- | --- |
-| 做事技巧与科研写作 | 【[做事技巧与科研写作.pdf](https://lab-static.unvs.cc/jinnang/研究篇/做事技巧与科研写作.pdf])】/【[做事技巧与科研写作.pptx](https://lab-static.unvs.cc/jinnang/思维篇/做事技巧与科研写作.pptx])】| 2025年5月13日 |
-| 项目申报及论文写作中的Incremental思想 | 【[项目申报及论文写作中的Incremental思想.pdf](https://lab-static.unvs.cc/jinnang/研究篇/项目申报及论文写作中的Incremental思想.pdf])】/【[项目申报及论文写作中的Incremental思想.pptx](https://lab-static.unvs.cc/jinnang/思维篇/项目申报及论文写作中的Incremental思想.pptx])】| 2025年5月13日 |
-| 论创新能力的培养 | 【[论创新能力的培养.pdf](https://lab-static.unvs.cc/jinnang/研究篇/论创新能力的培养.pdf])】/【[论创新能力的培养.pptx](https://lab-static.unvs.cc/jinnang/思维篇/论创新能力的培养.pptx])】| 2025年5月13日 |
-| 活动组织流程 | 【[活动组织流程.pdf](https://lab-static.unvs.cc/jinnang/研究篇/活动组织流程.pdf])】| 2025年5月13日 |
+| 做事技巧与科研写作 | 【[做事技巧与科研写作.pdf](https://lab-static.unvs.cc/jinnang/思维篇/做事技巧与科研写作.pdf])】/【[做事技巧与科研写作.pptx](https://lab-static.unvs.cc/jinnang/思维篇/做事技巧与科研写作.pptx])】| 2025年5月13日 |
+| 项目申报及论文写作中的Incremental思想 | 【[项目申报及论文写作中的Incremental思想.pdf](https://lab-static.unvs.cc/jinnang/思维篇/项目申报及论文写作中的Incremental思想.pdf])】/【[项目申报及论文写作中的Incremental思想.pptx](https://lab-static.unvs.cc/jinnang/思维篇/项目申报及论文写作中的Incremental思想.pptx])】| 2025年5月13日 |
+| 论创新能力的培养 | 【[论创新能力的培养.pdf](https://lab-static.unvs.cc/jinnang/思维篇/论创新能力的培养.pdf])】/【[论创新能力的培养.pptx](https://lab-static.unvs.cc/jinnang/思维篇/论创新能力的培养.pptx])】| 2025年5月13日 |
+| 活动组织流程 | 【[活动组织流程.pdf](https://lab-static.unvs.cc/jinnang/思维篇/活动组织流程.pdf])】| 2025年5月13日 |
+
+# 团队合作
+
+| 论文写作中的团队协作 | 【[论文写作中的团队协作v11.pdf](https://lab-static.unvs.cc/jinnang/合作篇/论文写作中的团队协作v11.pdf])】| 2025年5月13日 |
 
 # 财务报销
 
