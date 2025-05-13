@@ -15,26 +15,26 @@ redirect_from:
 
 | 指南说明 | 文档 | 上传时间 |
 | --- | --- | --- |
-| Python语言基础 | 【[Python语言基础.pdf](https://lab-static.unvs.cc/jinnang/基础篇/Python语言基础.pdf])】| 2025年5月13日 |
-| Pytorch教程 | 【[Pytorch教程.pdf](https://lab-static.unvs.cc/jinnang/基础篇/Pytorch教程.pdf])】| 2025年5月13日 |
-| Git教程 | 【[Git教程.pdf](https://lab-static.unvs.cc/jinnang/基础篇/Git教程.pdf])】/【[Git教程.pptx](https://lab-static.unvs.cc/jinnang/基础篇/Git教程.pptx])】| 2025年5月13日 |
-| Caffe教程 | 【[Caffe教程.pdf](https://lab-static.unvs.cc/jinnang/基础篇/Caffe教程.pdf])】| 2025年5月13日 |
-| 深度学习项目开发新手教程 | 【[深度学习项目开发新手教程V2.3.pdf](https://lab-static.unvs.cc/jinnang/基础篇/深度学习项目开发新手教程V2.3.pdf])】| 2025年5月13日 |
-| 科学编程箴言 | 【[科学编程箴言-V2.pdf](https://lab-static.unvs.cc/jinnang/基础篇/科学编程箴言-V2.pdf])】/【[科学编程箴言-V2.pptx](https://lab-static.unvs.cc/jinnang/基础篇/科学编程箴言-V2.pptx])】| 2025年5月13日 |
+| Python语言基础 | 【[Python语言基础.pdf](https://lab-static.unvs.cc/jinnang/基础篇/Python语言基础.pdf)】| 2025年5月13日 |
+| Pytorch教程 | 【[Pytorch教程.pdf](https://lab-static.unvs.cc/jinnang/基础篇/Pytorch教程.pdf)】| 2025年5月13日 |
+| Git教程 | 【[Git教程.pdf](https://lab-static.unvs.cc/jinnang/基础篇/Git教程.pdf)】/【[Git教程.pptx](https://lab-static.unvs.cc/jinnang/基础篇/Git教程.pptx])】| 2025年5月13日 |
+| Caffe教程 | 【[Caffe教程.pdf](https://lab-static.unvs.cc/jinnang/基础篇/Caffe教程.pdf)】| 2025年5月13日 |
+| 深度学习项目开发新手教程 | 【[深度学习项目开发新手教程V2.3.pdf](https://lab-static.unvs.cc/jinnang/基础篇/深度学习项目开发新手教程V2.3.pdf)】| 2025年5月13日 |
+| 科学编程箴言 | 【[科学编程箴言-V2.pdf](https://lab-static.unvs.cc/jinnang/基础篇/科学编程箴言-V2.pdf)】/【[科学编程箴言-V2.pptx](https://lab-static.unvs.cc/jinnang/基础篇/科学编程箴言-V2.pptx)】| 2025年5月13日 |
 
 ### （2）参考
 
 | 指南说明 | 文档 | 上传时间 |
 | --- | --- | --- |
-| 视频图像基础问题 | 【[视频图像基础问题--整合精简版-v2.1.pdf](https://lab-static.unvs.cc/jinnang/基础篇/视频图像基础问题--整合精简版-v2.1.pdf])】/【[视频图像基础问题--整合精简版-v2.1.docx](https://lab-static.unvs.cc/jinnang/基础篇/视频图像基础问题--整合精简版-v2.1.docx])】| 2025年5月13日 |
-| 深度学习案例 | 【[Deep_learning_reveals_cancer_metastasis_and.pdf](https://lab-static.unvs.cc/jinnang/基础篇/Deep_learning_reveals_cancer_metastasis_and.pdf])】| 2025年5月13日 |
-| 深度强化学习简介 | 【[An_Introduction_to_Deep_Reinforcement_Learning.pdf](https://lab-static.unvs.cc/jinnang/基础篇/An_Introduction_to_Deep_Reinforcement_Learning.pdf])】| 2025年5月13日 |
+| 视频图像基础问题 | 【[视频图像基础问题--整合精简版-v2.1.pdf](https://lab-static.unvs.cc/jinnang/基础篇/视频图像基础问题--整合精简版-v2.1.pdf)】/【[视频图像基础问题--整合精简版-v2.1.docx](https://lab-static.unvs.cc/jinnang/基础篇/视频图像基础问题--整合精简版-v2.1.docx)】| 2025年5月13日 |
+| 深度学习案例 | 【[Deep_learning_reveals_cancer_metastasis_and.pdf](https://lab-static.unvs.cc/jinnang/基础篇/Deep_learning_reveals_cancer_metastasis_and.pdf)】| 2025年5月13日 |
+| 深度强化学习简介 | 【[An_Introduction_to_Deep_Reinforcement_Learning.pdf](https://lab-static.unvs.cc/jinnang/基础篇/An_Introduction_to_Deep_Reinforcement_Learning.pdf)】| 2025年5月13日 |
 
 ### （3）公共资源使用指南
 
 | 指南说明 | 文档 | 上传时间 |
 | --- | --- | --- |
-| 服务器的使用和管理指南 | 【[服务器的使用和管理指南.pdf](https://lab-static.unvs.cc/jinnang/基础篇/服务器的使用和管理指南.pdf])】/【[服务器的使用和管理指南.pptx](https://lab-static.unvs.cc/jinnang/基础篇/服务器的使用和管理指南.pptx])】| 2025年5月13日 |
+| 服务器的使用和管理指南 | 【[服务器的使用和管理指南.pdf](https://lab-static.unvs.cc/jinnang/基础篇/服务器的使用和管理指南.pdf)】/【[服务器的使用和管理指南.pptx](https://lab-static.unvs.cc/jinnang/基础篇/服务器的使用和管理指南.pptx)】| 2025年5月13日 |
 | 如何修改实验室锦囊 | 【[如何修改实验室锦囊.pptx](https://lab-static.unvs.cc/jinnang/research/其他/如何修改实验室锦囊.pptx)】| 2025年5月5日 |
 
 ## 2-制作PPT基础
@@ -43,7 +43,7 @@ redirect_from:
 
 | 指南说明 | 文档 | 上传时间 |
 | --- | --- | --- |
-| 如何做PPT | 【[如何做PPT_v10.pdf](https://lab-static.unvs.cc/jinnang/基础篇/如何做PPT_v10.pdf])】/【[如何做PPT_v10.pptx](https://lab-static.unvs.cc/jinnang/基础篇/如何做PPT_v10.pptx])】| 2025年5月5日 |
+| 如何做PPT | 【[如何做PPT_v10.pdf](https://lab-static.unvs.cc/jinnang/基础篇/如何做PPT_v10.pdf)】/【[如何做PPT_v10.pptx](https://lab-static.unvs.cc/jinnang/基础篇/如何做PPT_v10.pptx)】| 2025年5月5日 |
 
 ### （2）模板
 
@@ -56,21 +56,21 @@ redirect_from:
 ## 1-项目开展
 | 指南说明 | 文档 | 上传时间 |
 | --- | --- | --- |
-| 怎么快速开展项目 | 【[怎么快速开展项目_流程图.pdf](https://lab-static.unvs.cc/jinnang/研究篇/怎么快速开展项目_流程图.pdf])】| 2025年5月13日 |
-| 早期科研问题定义及项目开展 | 【[早期科研问题定义及项目开展流程图.pdf](https://lab-static.unvs.cc/jinnang/研究篇/早期科研问题定义及项目开展流程图.pdf])】| 2025年5月13日 |
+| 怎么快速开展项目 | 【[怎么快速开展项目_流程图.pdf](https://lab-static.unvs.cc/jinnang/研究篇/怎么快速开展项目_流程图.pdf)】| 2025年5月13日 |
+| 早期科研问题定义及项目开展 | 【[早期科研问题定义及项目开展流程图.pdf](https://lab-static.unvs.cc/jinnang/研究篇/早期科研问题定义及项目开展流程图.pdf)】| 2025年5月13日 |
 
 ## 2-实验
 
 ### （1）入门
 
-| 如何做实验 | 【[如何做实验.pdf](https://lab-static.unvs.cc/jinnang/研究篇/如何做实验.pdf])】/【[如何做实验.pptx](https://lab-static.unvs.cc/jinnang/研究篇/如何做实验.pptx])】| 2025年5月13日 |
+| 如何做实验 | 【[如何做实验.pdf](https://lab-static.unvs.cc/jinnang/研究篇/如何做实验.pdf)】/【[如何做实验.pptx](https://lab-static.unvs.cc/jinnang/研究篇/如何做实验.pptx)】| 2025年5月13日 |
 
 ### （2）模板
 
 | 指南说明 | 文档 | 上传时间 |
 | --- | --- | --- |
-| 实验报告范例 | 【[实验报告范例.pdf](https://lab-static.unvs.cc/jinnang/研究篇/实验报告范例.pdf])】| 2025年5月13日 |
-| 实验报告提纲 | 【[实验报告提纲.pdf](https://lab-static.unvs.cc/jinnang/研究篇/实验报告提纲.pdf])】| 2025年5月13日 |
+| 实验报告范例 | 【[实验报告范例.pdf](https://lab-static.unvs.cc/jinnang/研究篇/实验报告范例.pdf)】| 2025年5月13日 |
+| 实验报告提纲 | 【[实验报告提纲.pdf](https://lab-static.unvs.cc/jinnang/研究篇/实验报告提纲.pdf)】| 2025年5月13日 |
 | 实验报告提纲与范例 | 【[实验报告提纲+范例.pdf](https://lab-static.unvs.cc/jinnang/research/实验报告/实验报告提纲+范例.pdf)】/【[实验报告提纲+范例.docx](https://lab-static.unvs.cc/jinnang/research/实验报告/实验报告提纲+范例.docx)】| 2025年5月5日 |
 
 
@@ -183,14 +183,14 @@ redirect_from:
 
 | 指南说明 | 文档 | 上传时间 |
 | --- | --- | --- |
-| 做事技巧与科研写作 | 【[做事技巧与科研写作.pdf](https://lab-static.unvs.cc/jinnang/思维篇/做事技巧与科研写作.pdf])】/【[做事技巧与科研写作.pptx](https://lab-static.unvs.cc/jinnang/思维篇/做事技巧与科研写作.pptx])】| 2025年5月13日 |
-| 项目申报及论文写作中的Incremental思想 | 【[项目申报及论文写作中的Incremental思想.pdf](https://lab-static.unvs.cc/jinnang/思维篇/项目申报及论文写作中的Incremental思想.pdf])】/【[项目申报及论文写作中的Incremental思想.pptx](https://lab-static.unvs.cc/jinnang/思维篇/项目申报及论文写作中的Incremental思想.pptx])】| 2025年5月13日 |
-| 论创新能力的培养 | 【[论创新能力的培养.pdf](https://lab-static.unvs.cc/jinnang/思维篇/论创新能力的培养.pdf])】/【[论创新能力的培养.pptx](https://lab-static.unvs.cc/jinnang/思维篇/论创新能力的培养.pptx])】| 2025年5月13日 |
-| 活动组织流程 | 【[活动组织流程.pdf](https://lab-static.unvs.cc/jinnang/思维篇/活动组织流程.pdf])】| 2025年5月13日 |
+| 做事技巧与科研写作 | 【[做事技巧与科研写作.pdf](https://lab-static.unvs.cc/jinnang/思维篇/做事技巧与科研写作.pdf)】/【[做事技巧与科研写作.pptx](https://lab-static.unvs.cc/jinnang/思维篇/做事技巧与科研写作.pptx)】| 2025年5月13日 |
+| 项目申报及论文写作中的Incremental思想 | 【[项目申报及论文写作中的Incremental思想.pdf](https://lab-static.unvs.cc/jinnang/思维篇/项目申报及论文写作中的Incremental思想.pdf)】/【[项目申报及论文写作中的Incremental思想.pptx](https://lab-static.unvs.cc/jinnang/思维篇/项目申报及论文写作中的Incremental思想.pptx)】| 2025年5月13日 |
+| 论创新能力的培养 | 【[论创新能力的培养.pdf](https://lab-static.unvs.cc/jinnang/思维篇/论创新能力的培养.pdf)】/【[论创新能力的培养.pptx](https://lab-static.unvs.cc/jinnang/思维篇/论创新能力的培养.pptx)】| 2025年5月13日 |
+| 活动组织流程 | 【[活动组织流程.pdf](https://lab-static.unvs.cc/jinnang/思维篇/活动组织流程.pdf)】| 2025年5月13日 |
 
 # 团队合作
 
-| 论文写作中的团队协作 | 【[论文写作中的团队协作v11.pdf](https://lab-static.unvs.cc/jinnang/合作篇/论文写作中的团队协作v11.pdf])】| 2025年5月13日 |
+| 论文写作中的团队协作 | 【[论文写作中的团队协作v11.pdf](https://lab-static.unvs.cc/jinnang/合作篇/论文写作中的团队协作v11.pdf)】| 2025年5月13日 |
 
 # 财务报销
 
