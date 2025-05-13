@@ -7,6 +7,72 @@ redirect_from:
   - /about/
   - /about.html
 ---
+# 基础入门
+
+## 1-编程基础
+
+### （1）入门
+
+| 指南说明 | 文档 | 上传时间 |
+| --- | --- | --- |
+| Python语言基础 | 【[Python语言基础.pdf](https://lab-static.unvs.cc/jinnang/基础篇/Python语言基础.pdf])】| 2025年5月13日 |
+| Pytorch教程 | 【[Pytorch教程.pdf](https://lab-static.unvs.cc/jinnang/基础篇/Pytorch教程.pdf])】| 2025年5月13日 |
+| Git教程 | 【[Git教程.pdf](https://lab-static.unvs.cc/jinnang/基础篇/Git教程.pdf])】/【[Git教程.pptx](https://lab-static.unvs.cc/jinnang/基础篇/Git教程.pptx])】| 2025年5月13日 |
+| Caffe教程 | 【[Caffe教程.pdf](https://lab-static.unvs.cc/jinnang/基础篇/Caffe教程.pdf])】| 2025年5月13日 |
+| 深度学习项目开发新手教程 | 【[深度学习项目开发新手教程V2.3.pdf](https://lab-static.unvs.cc/jinnang/基础篇/深度学习项目开发新手教程V2.3.pdf])】| 2025年5月13日 |
+| 科学编程箴言 | 【[科学编程箴言-V2.pdf](https://lab-static.unvs.cc/jinnang/基础篇/科学编程箴言-V2.pdf])】/【[科学编程箴言-V2.pptx](https://lab-static.unvs.cc/jinnang/基础篇/科学编程箴言-V2.pptx])】| 2025年5月13日 |
+
+### （2）参考
+
+| 指南说明 | 文档 | 上传时间 |
+| --- | --- | --- |
+| 视频图像基础问题 | 【[视频图像基础问题--整合精简版-v2.1.pdf](https://lab-static.unvs.cc/jinnang/基础篇/视频图像基础问题--整合精简版-v2.1.pdf])】/【[视频图像基础问题--整合精简版-v2.1.docx](https://lab-static.unvs.cc/jinnang/基础篇/视频图像基础问题--整合精简版-v2.1.docx])】| 2025年5月13日 |
+| 深度学习案例 | 【[Deep_learning_reveals_cancer_metastasis_and.pdf](https://lab-static.unvs.cc/jinnang/基础篇/Deep_learning_reveals_cancer_metastasis_and.pdf])】| 2025年5月13日 |
+| 深度强化学习简介 | 【[An_Introduction_to_Deep_Reinforcement_Learning.pdf](https://lab-static.unvs.cc/jinnang/基础篇/An_Introduction_to_Deep_Reinforcement_Learning.pdf])】| 2025年5月13日 |
+
+### （3）公共资源使用指南
+
+| 指南说明 | 文档 | 上传时间 |
+| --- | --- | --- |
+| 服务器的使用和管理指南 | 【[服务器的使用和管理指南.pdf](https://lab-static.unvs.cc/jinnang/基础篇/服务器的使用和管理指南.pdf])】/【[服务器的使用和管理指南.pptx](https://lab-static.unvs.cc/jinnang/基础篇/服务器的使用和管理指南.pptx])】| 2025年5月13日 |
+| 如何修改实验室锦囊 | 【[如何修改实验室锦囊.pptx](https://lab-static.unvs.cc/jinnang/research/其他/如何修改实验室锦囊.pptx)】| 2025年5月5日 |
+
+## 2-制作PPT基础
+
+### （1）入门
+
+| 指南说明 | 文档 | 上传时间 |
+| --- | --- | --- |
+| 如何做PPT | 【[如何做PPT_v10.pdf](https://lab-static.unvs.cc/jinnang/基础篇/如何做PPT_v10.pdf])】/【[如何做PPT_v10.pptx](https://lab-static.unvs.cc/jinnang/基础篇/如何做PPT_v10.pptx])】| 2025年5月5日 |
+
+### （2）模板
+
+| 指南说明 | 文档 | 上传时间 |
+| --- | --- | --- |
+| PPT模板 | 【[PPT模板.zip](https://lab-static.unvs.cc/jinnang/research/制作PPT/PPT模板.zip)】| 2025年5月5日 |
+
+# 项目研究
+
+## 1-项目开展
+| 指南说明 | 文档 | 上传时间 |
+| --- | --- | --- |
+| 怎么快速开展项目 | 【[怎么快速开展项目_流程图.pdf](https://lab-static.unvs.cc/jinnang/研究篇/怎么快速开展项目_流程图.pdf])】| 2025年5月13日 |
+| 早期科研问题定义及项目开展 | 【[早期科研问题定义及项目开展流程图.pdf](https://lab-static.unvs.cc/jinnang/研究篇/早期科研问题定义及项目开展流程图.pdf])】| 2025年5月13日 |
+
+## 2-实验
+
+### （1）入门
+
+| 如何做实验 | 【[如何做实验.pdf](https://lab-static.unvs.cc/jinnang/研究篇/如何做实验.pdf])】/【[如何做实验.pptx](https://lab-static.unvs.cc/jinnang/研究篇/如何做实验.pptx])】| 2025年5月13日 |
+
+### （2）模板
+
+| 指南说明 | 文档 | 上传时间 |
+| --- | --- | --- |
+| 实验报告范例 | 【[实验报告范例.pdf](https://lab-static.unvs.cc/jinnang/研究篇/实验报告范例.pdf])】| 2025年5月13日 |
+| 实验报告提纲 | 【[实验报告提纲.pdf](https://lab-static.unvs.cc/jinnang/研究篇/实验报告提纲.pdf])】| 2025年5月13日 |
+| 实验报告提纲与范例 | 【[实验报告提纲+范例.pdf](https://lab-static.unvs.cc/jinnang/research/实验报告/实验报告提纲+范例.pdf)】/【[实验报告提纲+范例.docx](https://lab-static.unvs.cc/jinnang/research/实验报告/实验报告提纲+范例.docx)】| 2025年5月5日 |
+
 
 # 写作资料
 
@@ -74,15 +140,7 @@ redirect_from:
 | --- | --- | --- |
 | Rebuttal供参考的优秀案例 | 【[rebuttal优秀案例.zip](https://lab-static.unvs.cc/jinnang/research/Rebuttal/rebuttal优秀案例.zip)】| 2025年4月29日 |
 
-## 3-实验报告经验总结
-
-### （1）模板
-
-| 指南说明 | 文档 | 上传时间 |
-| --- | --- | --- |
-| 实验报告提纲与范例 | 【[实验报告提纲+范例.pdf](https://lab-static.unvs.cc/jinnang/research/实验报告/实验报告提纲+范例.pdf)】/【[实验报告提纲+范例.docx](https://lab-static.unvs.cc/jinnang/research/实验报告/实验报告提纲+范例.docx)】| 2025年5月5日 |
-
-## 4-公文修改经验总结
+## 3-公文修改经验总结
 
 ### （1）参考
 
@@ -90,22 +148,7 @@ redirect_from:
 | --- | --- | --- |
 | 公文修改案例 | 【[公文修改案例-看如何修改公文使其更清晰.pdf](https://lab-static.unvs.cc/jinnang/research/公文修改/公文修改案例-看如何修改公文使其更清晰.pdf)】| 2025年5月5日 |
 
-## 5-制作PPT经验总结
-
-### （1）入门
-
-| 指南说明 | 文档 | 上传时间 |
-| --- | --- | --- |
-| 如何做PPT | 【[如何做PPT.pptx](https://lab-static.unvs.cc/jinnang/research/制作PPT/如何做PPT.pptx)】| 2025年5月5日 |
-| PPT排版技巧 | 【[PPT排版技巧-v3.pdf](https://lab-static.unvs.cc/jinnang/research/制作PPT/PPT排版技巧-v3.pdf)】/【[PPT排版技巧-v3.pptx](https://lab-static.unvs.cc/jinnang/research/制作PPT/PPT排版技巧-v3.pptx)】/【[视频讲解](https://meeting.tencent.com/cw/Km1Zr0QK07)】| 2025年5月8日 |
-
-### （2）模板
-
-| 指南说明 | 文档 | 上传时间 |
-| --- | --- | --- |
-| PPT模板 | 【[PPT模板.zip](https://lab-static.unvs.cc/jinnang/research/制作PPT/PPT模板.zip)】| 2025年5月5日 |
-
-## 6-专利和软著经验总结
+## 4-专利和软著经验总结
 
 ### （1）入门
 
@@ -127,15 +170,23 @@ redirect_from:
 | --- | --- | --- |
 | 软著申请材料示例 | 【[软著申请材料的示例模板.zip](https://lab-static.unvs.cc/jinnang/research/专利和软著/软著申请材料的示例模板.zip)】| 2025年5月5日 |
 
-## 7-其他
+## 5-其他
 
 | 指南说明 | 文档 | 上传时间 |
 | --- | --- | --- |
 | 作者署名规定(暂行) | 【[作者署名规定(暂行).pdf](https://lab-static.unvs.cc/jinnang/research/其他/作者署名规定(暂行).pdf)】/【[作者署名规定(暂行).docx](https://lab-static.unvs.cc/jinnang/research/其他/作者署名规定(暂行).docx)】| 2025年5月5日 |
-| 如何修改实验室锦囊 | 【[如何修改实验室锦囊.pptx](https://lab-static.unvs.cc/jinnang/research/其他/如何修改实验室锦囊.pptx)】| 2025年5月5日 |
 | 中文科技论文的常见语言弊病 | 【[科学网—中文科技论文的常见语言弊病-李春辉的博文.pdf](https://lab-static.unvs.cc/jinnang/research/其他/科学网—中文科技论文的常见语言弊病-李春辉的博文.pdf)】| 2025年5月5日 |
 | 论文写作规范 | 【[论文写作规范，这篇文章说的最详细！-简书.pdf](https://lab-static.unvs.cc/jinnang/research/其他/论文写作规范，这篇文章说的最详细！-简书.pdf)】| 2025年5月5日 |
 | 如何写NLP论文 | 【[清华刘洋教授-(如何写NLP论文-其他方向也可借鉴)-(12-08-2019).pdf](https://lab-static.unvs.cc/jinnang/research/其他/清华刘洋教授-(如何写NLP论文-其他方向也可借鉴)-(12-08-2019).pdf)】| 2025年5月5日 |
+
+# 思维培养
+
+| 指南说明 | 文档 | 上传时间 |
+| --- | --- | --- |
+| 做事技巧与科研写作 | 【[做事技巧与科研写作.pdf](https://lab-static.unvs.cc/jinnang/研究篇/做事技巧与科研写作.pdf])】/【[做事技巧与科研写作.pptx](https://lab-static.unvs.cc/jinnang/思维篇/做事技巧与科研写作.pptx])】| 2025年5月13日 |
+| 项目申报及论文写作中的Incremental思想 | 【[项目申报及论文写作中的Incremental思想.pdf](https://lab-static.unvs.cc/jinnang/研究篇/项目申报及论文写作中的Incremental思想.pdf])】/【[项目申报及论文写作中的Incremental思想.pptx](https://lab-static.unvs.cc/jinnang/思维篇/项目申报及论文写作中的Incremental思想.pptx])】| 2025年5月13日 |
+| 论创新能力的培养 | 【[论创新能力的培养.pdf](https://lab-static.unvs.cc/jinnang/研究篇/论创新能力的培养.pdf])】/【[论创新能力的培养.pptx](https://lab-static.unvs.cc/jinnang/思维篇/论创新能力的培养.pptx])】| 2025年5月13日 |
+| 活动组织流程 | 【[活动组织流程.pdf](https://lab-static.unvs.cc/jinnang/研究篇/活动组织流程.pdf])】| 2025年5月13日 |
 
 # 财务报销
 
