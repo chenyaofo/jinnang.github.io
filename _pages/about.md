@@ -198,3 +198,17 @@ redirect_from:
 | 指南说明 | 文档 | 上传时间 |
 | --- | --- | --- |
 | 发表期刊论文后，期刊版面费的报销流程、所需材料及注意事项 | 【[期刊版面费报销.pdf](https://lab-static.unvs.cc/jinnang/finance/期刊版面费报销教程20250428.pdf)】/【[期刊版面费报销.pptx](https://lab-static.unvs.cc/jinnang/finance/期刊版面费报销教程20250428.pptx)】 | 2025年4月28日 |
+
+
+---
+
+# 实验室正在进行的项目
+
+论文最终版本致谢部分清咨询老师挂哪些项目号，目前正在进行的项目包括：
+
+| 项目名称 | 简称 | 致谢内容 |
+| --- | --- | --- |
+| 面向开放场景的无人系统智能感知与协同计算研究 | 联合基金 | the Joint Funds of the National Natural Science Foundation of China (Grant No.U24A20327) |
+| 高效可解释性神经网络模型及理论研究 | 广东省重点研发（已结题，但是仍需挂一段时间论文呢） | Key-Area Research and Development Program Guangdong Province 2018B010107001 |
+| 面向TCL垂域应用的紧致大模型关键技术与应用研究 | TCL项目 | TCL science and technology innovation fund |
+
