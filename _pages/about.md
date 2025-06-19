@@ -11,7 +11,7 @@ redirect_from:
 
 | 指南说明 | 文档 | 上传时间 |
 | --- | --- | --- |
-| 致研究生的一封信 | 【[致研究生的一封信.pdf](https://lab-static.unvs.cc/jinnang/基础篇/致研究生的一封信.pdf)】| 2025年5月13日 |
+| 致研究生的一封信 | 【[致研究生的一封信.pdf](https://lab-static.unvs.cc/jinnang/基础篇/致研究生的一封信.pdf)】| 2025年6月19日 |
 
 # 基础入门
 
@@ -42,6 +42,7 @@ redirect_from:
 | --- | --- | --- |
 | 服务器的使用和管理指南 | 【[服务器的使用和管理指南.pdf](https://lab-static.unvs.cc/jinnang/基础篇/服务器的使用和管理指南.pdf)】/【[服务器的使用和管理指南.pptx](https://lab-static.unvs.cc/jinnang/基础篇/服务器的使用和管理指南.pptx)】| 2025年5月13日 |
 | 如何修改实验室锦囊 | 【[如何修改实验室锦囊.pptx](https://lab-static.unvs.cc/jinnang/research/其他/如何修改实验室锦囊.pptx)】| 2025年5月5日 |
+| 如何使用实验室打印机 | 【[琶洲实验室打印机使用（310）.pdf](https://lab-static.unvs.cc/jinnang/基础篇/琶洲实验室打印机使用（310）.pdf)】| 2025年6月19日 |
 
 ## 2-制作PPT基础
 
