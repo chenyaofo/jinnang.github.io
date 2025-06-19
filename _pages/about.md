@@ -7,6 +7,12 @@ redirect_from:
   - /about/
   - /about.html
 ---
+# 原则
+
+| 指南说明 | 文档 | 上传时间 |
+| --- | --- | --- |
+| 致研究生的一封信 | 【[致研究生的一封信.pdf](https://lab-static.unvs.cc/jinnang/基础篇/致研究生的一封信.pdf)】| 2025年5月13日 |
+
 # 基础入门
 
 ## 1-编程基础
