@@ -93,6 +93,7 @@ redirect_from:
 | Latex论文写作标准 | 【[Latex论文写作标准.pdf](https://lab-static.unvs.cc/jinnang/research/论文写作/Latex论文写作标准.pdf])】/【[Latex论文写作标准.docx](https://lab-static.unvs.cc/jinnang/research/论文写作/Latex论文写作标准.docx)】| 2025年5月4日 |
 | 如何写论文 | 【[如何写论文.pdf](https://lab-static.unvs.cc/jinnang/research/论文写作/如何写论文.pdf)】/【[如何写论文.pptx](https://lab-static.unvs.cc/jinnang/research/论文写作/如何写论文.pptx)】| 2025年5月4日 |
 | 如何写草稿 | 【[如何写草稿.pdf](https://lab-static.unvs.cc/jinnang/research/论文写作/如何写草稿.pdf)】/【[如何写草稿.pptx](https://lab-static.unvs.cc/jinnang/research/论文写作/如何写草稿.pptx)】| 2025年5月4日 |
+| 如何写草稿 | 【[如何写草稿.txt](https://lab-static.unvs.cc/jinnang/research/论文写作/如何写草稿.txt)】| 2025年7月9日 |
 | 如何写Related Work | 【[如何写Related_Work.pdf](https://lab-static.unvs.cc/jinnang/research/论文写作/如何写Related_Work.pdf)】/【[如何写Related_Work.pptx](https://lab-static.unvs.cc/jinnang/research/论文写作/如何写Related_Work.pptx)】| 2025年5月4日 |
 | 如何写投稿信 | 【[如何写投稿信.pdf](https://lab-static.unvs.cc/jinnang/research/论文写作/如何写投稿信.pdf)】/【[如何写投稿信.pptx](https://lab-static.unvs.cc/jinnang/research/论文写作/如何写投稿信.pptx)】| 2025年5月4日 |
 | 如何提升写作 | 【[如何提升写作（写作指南）.pdf](https://lab-static.unvs.cc/jinnang/research/论文写作/如何提升写作（写作指南）.pdf)】/【[如何提升写作（写作指南）.pptx](https://lab-static.unvs.cc/jinnang/research/论文写作/如何提升写作（写作指南）.pptx)】| 2025年5月4日 |
@@ -119,6 +120,9 @@ redirect_from:
 | 指南说明 | 文档 | 上传时间 |
 | --- | --- | --- |
 | 草稿模板 | 【[草稿模板.zip](https://lab-static.unvs.cc/jinnang/research/论文写作/草稿模板.zip)】| 2025年5月4日 |
+| 草稿模板 | 【[样例一.jpg](https://lab-static.unvs.cc/jinnang/research/论文写作/样例一.jpg)】| 2025年7月9日 |
+| 草稿模板 | 【[样例二.jpg](https://lab-static.unvs.cc/jinnang/research/论文写作/样例二.jpg)】| 2025年7月9日 |
+| 草稿模板 | 【[Abstract_template.pdf](https://lab-static.unvs.cc/jinnang/research/论文写作/Abstract_template.pdf)】| 2025年7月9日 |
 
 ### （5）参考
 
