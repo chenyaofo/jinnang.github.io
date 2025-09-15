@@ -51,6 +51,7 @@ redirect_from:
 | 指南说明 | 文档 | 上传时间 |
 | --- | --- | --- |
 | 如何做PPT | 【[如何做PPT_v10.pdf](https://lab-static.unvs.cc/jinnang/基础篇/如何做PPT_v10.pdf)】/【[如何做PPT_v10.pptx](https://lab-static.unvs.cc/jinnang/基础篇/如何做PPT_v10.pptx)】| 2025年5月5日 |
+| PPT制作原则与技巧 | 【[PPT制作-v3.pdf](https://lab-static.unvs.cc/jinnang/基础篇/PPT制作-v3.pdf)】/【[PPT制作-v3.pptx](https://lab-static.unvs.cc/jinnang/基础篇/PPT制作-v3.pptx)】| 2025年9月15日 |
 
 ### （2）模板
 
