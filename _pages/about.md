@@ -224,7 +224,13 @@ redirect_from:
 | 项目名称 | 简称 | 致谢内容 |
 | --- | --- | --- |
 | 面向开放场景的无人系统智能感知与协同计算研究 | 联合基金 | the Joint Funds of the National Natural Science Foundation of China (Grant No.U24A20327) |
-| 高效可解释性神经网络模型及理论研究 | 广东省重点研发（已结题，但是仍需挂一段时间论文呢） | Key-Area Research and Development Program Guangdong Province 2018B010107001 |
-| 面向TCL垂域应用的紧致大模型关键技术与应用研究 | TCL项目 | TCL science and technology innovation fund |
 | 面向运动和意识障碍康复的双向-闭环脑机接口 | -- | 中文标识为“科技创新2030 2022ZD0208900”、英文标识为“STI 2030—Major Projects 2022ZD0208900” |
 
+
+# 实验室已经完成的项目
+
+
+| 项目名称 | 简称 | 致谢内容 |
+| --- | --- | --- |
+| 高效可解释性神经网络模型及理论研究 | 广东省重点研发 | Key-Area Research and Development Program Guangdong Province 2018B010107001 |
+| 面向TCL垂域应用的紧致大模型关键技术与应用研究 | TCL项目 | TCL science and technology innovation fund |
