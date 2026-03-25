@@ -221,11 +221,20 @@ redirect_from:
 
 论文最终版本致谢部分清咨询老师挂哪些项目号，目前正在进行的项目包括：
 
+1. 谭明奎教授的项目：
+
 | 项目名称 | 简称 | 致谢内容 |
 | --- | --- | --- |
 | 面向开放场景的无人系统智能感知与协同计算研究 | 联合基金 | the Joint Funds of the National Natural Science Foundation of China (Grant No.U24A20327) |
 | 面向运动和意识障碍康复的双向-闭环脑机接口 | -- | 中文标识为“科技创新2030 2022ZD0208900”、英文标识为“STI 2030—Major Projects 2022ZD0208900” |
 
+2. 陈耀佛的项目：
+
+| 项目名称 | 简称 | 致谢内容 |
+| --- | --- | --- |
+| AI驱动的玻璃基声电协同射频滤波器及前端芯片模组研究（参与） | 电磁联合基金 | the Joint Funds of the National Natural Science Foundation of China (Grant No.U25A20414) |
+| 超长文本序列建模与推理加速研究 | 省面上 | GuangDong Basic and Applied Basic Research Foundation (Grant No.2026A1515010388) |
+| 博士后国家资助计划C | 国资C | Postdoctoral Fellowship Program of CPSF (GZC20251043) |
 
 # 实验室已经完成的项目
 
