@@ -212,7 +212,7 @@ redirect_from:
 
 | 指南说明 | 文档 | 上传时间 |
 | --- | --- | --- |
-| 发表会议论文后，出国差旅费的报销流程、所需材料及注意事项 | 【[出国参会操作指南与报销教程.pdf](https://lab-static.unvs.cc/jinnang/finance/出国参会操作指南与报销教程20260408.pdf)】/【[出国参会操作指南与报销教程.pptx](https://lab-static.unvs.cc/jinnang/finance/出国参会操作指南与报销教程20260408.pptx)】 | 2025年4月28日 |
+| 发表会议论文后，出国差旅费的报销流程、所需材料及注意事项 | 【[出国参会操作指南与报销教程.pdf](https://lab-static.unvs.cc/jinnang/finance/出国参会操作指南与报销教程20260408.pdf)】/【[出国参会操作指南与报销教程.pptx](https://lab-static.unvs.cc/jinnang/finance/出国参会操作指南与报销教程20260408.pptx)】 | 2026年4月08日 |
 | 发表期刊论文后，期刊版面费的报销流程、所需材料及注意事项 | 【[期刊版面费报销.pdf](https://lab-static.unvs.cc/jinnang/finance/期刊版面费报销教程20250428.pdf)】/【[期刊版面费报销.pptx](https://lab-static.unvs.cc/jinnang/finance/期刊版面费报销教程20250428.pptx)】 | 2025年4月28日 |
 
 
