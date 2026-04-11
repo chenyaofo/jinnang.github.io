@@ -228,7 +228,7 @@ redirect_from:
 | --- | --- | --- |
 | 面向开放场景的无人系统智能感知与协同计算研究 | 联合基金 | the Joint Funds of the National Natural Science Foundation of China (Grant No.U24A20327) |
 | 面向运动和意识障碍康复的双向-闭环脑机接口 | -- | 中文标识为“科技创新2030 2022ZD0208900”、英文标识为“STI 2030—Major Projects 2022ZD0208900” |
-| 广东省重点研发人工智能专项-工业具身智能体关键技术研究及应用 | "乐聚"广东省重点研发 |  Key-Area Research and Development Program of Guangdong Province (Grant No.2026B0101110001) |
+| 广东省重点研发人工智能专项-工业具身智能体关键技术研究及应用 | "乐聚"广东省重点研发 |   Guangdong S&T Program under Grant 2026B0101110001 |
 
 
  - 陈耀佛的项目：
